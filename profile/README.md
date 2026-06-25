@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.masterballhq.com/android-chrome-512x512.png" alt="masterball HQ" width="120" />
+<img src="./assets/logo.png" alt="masterball HQ" width="120" />
 
 # masterball HQ
 
