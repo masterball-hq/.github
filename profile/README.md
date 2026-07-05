@@ -9,6 +9,10 @@
 **The TCG platform by fans, for fans.**
 Your cards. Your community.
 
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.masterballhq.com%2Fen%2F&label=Website)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.masterball.app%2Fen%2F&label=App)
+![Discord](https://img.shields.io/discord/1412150441646624768?label=Discord&color=5865F2)
+
 [Website](https://www.masterballhq.com/en/) ·
 [App](https://www.masterball.app/en/) ·
 [Roadmap](https://www.masterballhq.com/en/roadmap/) ·
