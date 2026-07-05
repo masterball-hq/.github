@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="masterball HQ" width="120" />
+<img src="https://github.com/masterball-hq/.github/blob/main/profile/assets/logo.png" alt="masterball HQ" width="120" />
 
 # masterball HQ
 
