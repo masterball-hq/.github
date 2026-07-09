@@ -47,10 +47,10 @@ Digital TCG catalogs aren't new. What we care about is building something that a
 |---|---|
 | 🌐 Website | [masterballhq.com](https://www.masterballhq.com/en/) |
 | 🃏 App | [masterball.app](https://www.masterball.app/en/) |
-| 🗺️ Roadmap | [masterballhq.com/en/roadmap](https://www.masterballhq.com/en/roadmap/) |
-| 📖 Trainer Guide | [masterballhq.com/en/trainer-guide](https://www.masterballhq.com/en/trainer-guide/) |
-| ❓ Help | [masterballhq.com/en/help](https://www.masterballhq.com/en/help/) |
-| 💚 Support us | [masterballhq.com/en/support-and-donations](https://www.masterballhq.com/en/support-and-donations/) |
+| 🗺️ Roadmap | [masterballhq.com/en/roadmap/](https://www.masterballhq.com/en/roadmap/) |
+| 📖 Trainer Guide | [masterballhq.com/en/trainer-guide/](https://www.masterballhq.com/en/trainer-guide/) |
+| ❓ Help | [masterballhq.com/en/help/](https://www.masterballhq.com/en/help/) |
+| 💚 Support us | [masterballhq.com/en/support-and-donations/](https://www.masterballhq.com/en/support-and-donations/) |
 | 📊 Status | [status.masterballhq.com](https://status.masterballhq.com) |
 
 ## Community
