@@ -16,7 +16,7 @@ Your cards. Your community.
 [Website](https://www.masterballhq.com/en/) ·
 [App](https://www.masterball.app/en/) ·
 [Roadmap](https://www.masterballhq.com/en/roadmap/) ·
-[Trainer Guide](https://www.masterballhq.com/en/trainer-guide/)
+[Trainer Guide](https://www.masterballhq.com/en/wiki/masterball/introduction/)
 
 </div>
 
