@@ -67,7 +67,7 @@ Stay in touch — pick your channel:
 
 [Legal Notice](https://www.masterballhq.com/en/legal-notice/) ·
 [GTC](https://www.masterballhq.com/en/gtc/) ·
-[Privacy](https://www.masterballhq.com/en/privacy/) ·
+[Privacy](https://www.masterballhq.com/en/data-privacy/) ·
 [Copyright](https://www.masterballhq.com/en/copyright/)
 
 ---
