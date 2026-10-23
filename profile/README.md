@@ -16,7 +16,7 @@ Your cards. Your community.
 [Website](https://www.masterballhq.com/en/) ·
 [App](https://www.masterball.app/en/) ·
 [Roadmap](https://www.masterballhq.com/en/roadmap/) ·
-[Trainer Guide](https://www.masterballhq.com/en/trainer-guide/)
+[Trainer Guide](https://www.masterballhq.com/en/wiki/masterball/introduction/)
 
 </div>
 
@@ -67,7 +67,7 @@ Stay in touch — pick your channel:
 
 [Legal Notice](https://www.masterballhq.com/en/legal-notice/) ·
 [GTC](https://www.masterballhq.com/en/gtc/) ·
-[Privacy](https://www.masterballhq.com/en/privacy/) ·
+[Privacy](https://www.masterballhq.com/en/data-privacy/) ·
 [Copyright](https://www.masterballhq.com/en/copyright/)
 
 ---
