@@ -4,9 +4,9 @@
 
 # masterball HQ
 
-### Leveling up your digital Pokémon card collection
+### Level up your Pokémon card collection – digitize it with masterball.app
 
-**The TCG platform by fans, for fans.**
+**masterball.app is the TCG platform to digitize your Pokémon card collection — by fans, for fans.**
 Your cards. Your community.
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.masterballhq.com%2Fen%2F&label=Website)
@@ -24,13 +24,13 @@ Your cards. Your community.
 
 ## About
 
-With **masterball**, we're building a new shared home for Pokémon fans, collectors, and players — a place to exchange ideas, maintain collections together, organize events, and much more.
+With **masterball.app**, we're building a new shared home for Pokémon fans, collectors, and players — a place to exchange ideas, maintain collections together, organize events, and much more.
 
 Digital TCG catalogs aren't new. What we care about is building something that actually adds value to collecting — and that doesn't feel like a chore.
 
 ## What you can do
 
-- 🃏 **Collect cards** — Digitalize your collection, get an overview of your cards, and earn XP along the way.
+- 🃏 **Collect cards** — Digitize your collection, get an overview of your cards, and earn XP along the way.
 - 📕 **Complete your Pokédex** — Every card you collect fills your Pokédex. Can you catch them all?
 - 🏆 **Earn achievements** — Unlock personalization options for your profile by reaching milestones.
 
@@ -48,7 +48,7 @@ Digital TCG catalogs aren't new. What we care about is building something that a
 | 🌐 Website | [masterballhq.com](https://www.masterballhq.com/en/) |
 | 🃏 App | [masterball.app](https://www.masterball.app/en/) |
 | 🗺️ Roadmap | [masterballhq.com/en/roadmap/](https://www.masterballhq.com/en/roadmap/) |
-| 📖 Trainer Guide | [masterballhq.com/en/trainer-guide/](https://www.masterballhq.com/en/trainer-guide/) |
+| 📖 Trainer Guide | [masterballhq.com/en/wiki/](https://www.masterballhq.com/en/wiki/masterball/introduction/) |
 | ❓ Help | [masterballhq.com/en/help/](https://www.masterballhq.com/en/help/) |
 | 💚 Support us | [masterballhq.com/en/support-and-donations/](https://www.masterballhq.com/en/support-and-donations/) |
 | 📊 Status | [status.masterballhq.com](https://status.masterballhq.com) |
